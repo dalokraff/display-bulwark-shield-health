@@ -1,0 +1,11 @@
+mod = [
+	"display-bulwark-shield-health"
+]
+
+package = [
+	"resource_packages/display-bulwark-shield-health/display-bulwark-shield-health"
+]
+
+lua = [
+	"scripts/mods/display-bulwark-shield-health/*"
+]
