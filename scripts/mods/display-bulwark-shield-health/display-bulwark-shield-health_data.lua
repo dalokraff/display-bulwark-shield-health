@@ -13,8 +13,13 @@ menu.options.widgets = {
         setting_id = "predict_shield_health",
         type = "checkbox",
 		default_value = true,
-		description = mod:localize("predict_shield_health_desc")
-	}
+	},
+	{
+        setting_id = "display_regen_rate",
+        type = "checkbox",
+		default_value = true,
+		tooltip = "display_regen_rate_desc"
+	},
 }
 
 return menu

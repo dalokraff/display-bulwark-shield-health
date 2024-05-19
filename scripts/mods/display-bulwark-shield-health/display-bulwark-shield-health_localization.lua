@@ -7,5 +7,11 @@ return {
 	},
 	predict_shield_health_desc = {
 		en = "When unchecked the shield's health is only updated when the shield takes damage."
+	},
+	display_regen_rate = {
+		en = "Display shield health regen rate."
+	},
+	display_regen_rate_desc = {
+		en = "This value is only updated when the shield takes damage."
 	}
 }
